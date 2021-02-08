@@ -1,5 +1,7 @@
 # blogger
 
+An example project of how to produce sane versioned build artifacts in a micro-service setup with multiple interfaces.
+
 ## Definition of an Interface
 
 And interface is a contract between system and the environment it runs in.
